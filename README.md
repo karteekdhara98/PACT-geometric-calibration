@@ -1,6 +1,6 @@
 # PACT-geometric-calibration-code
 
-This code is part of the research paper: "A method for the geometric 
+This repository is part of the research paper: "A method for the geometric 
 calibration of ultrasound transducer arrays with arbitrary geometries".
  
 The paper is authored by: Karteekeya Sastry, Yang Zhang, Peng Hu, 
@@ -18,6 +18,8 @@ Copyright (c) 2023 Karteekeya Sastry, Lihong V. Wang
 
 This code is licensed under the MIT license. 
 See the LICENSE file for details.
+
+calibration_demo.m
 
 Author name: Karteekeya Sastry,
 Caltech Optical Imaging Laboratory,
