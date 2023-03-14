@@ -15,6 +15,7 @@ CA 91125, USA.
 For questions or comments about the code, please contact Karteekeya
 Sastry at sdharave \at caltech.edu .
 
+Copyright (c) 2023 Karteekeya Sastry, Lihong V. Wang
 This code is licensed under the MIT license. 
 See the LICENSE file for details.
 
