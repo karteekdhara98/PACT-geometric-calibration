@@ -4,8 +4,7 @@ This code is part of the research paper: "A method for the geometric
 calibration of ultrasound transducer arrays with arbitrary geometries".
  
 The paper is authored by: Karteekeya Sastry, Yang Zhang, Peng Hu, 
-Yilin Luo, Xin Tong, Shuai Na, Lihong V. Wang. The paper is currently 
-in preparation.
+Yilin Luo, Xin Tong, Shuai Na, Lihong V. Wang. The paper is currently in preparation.
 
 Author Affiliation: Caltech Optical Imaging Laboratory, Department of 
 Electrical Engineering, Department of Medical Engineering, California 
@@ -16,11 +15,14 @@ For questions or comments about the code, please contact Karteekeya
 Sastry at sdharave \at caltech.edu .
 
 Copyright (c) 2023 Karteekeya Sastry, Lihong V. Wang
+
 This code is licensed under the MIT license. 
 See the LICENSE file for details.
 
 Author name: Karteekeya Sastry
+
 Caltech Optical Imaging Laboratory
+
 Date: 14 March, 2023
 
 Description of the code:
