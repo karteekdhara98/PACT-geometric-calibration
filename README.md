@@ -20,9 +20,7 @@ This code is licensed under the MIT license.
 See the LICENSE file for details.
 
 Author name: Karteekeya Sastry
-
 Caltech Optical Imaging Laboratory
-
 Date: 14 March, 2023
 
 Description of the code:
