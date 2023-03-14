@@ -1,4 +1,4 @@
-# PACT-geometric-calibration-code
+# PACT-geometric-calibration
 
 This repository is part of the research paper: "A method for the geometric 
 calibration of ultrasound transducer arrays with arbitrary geometries".
