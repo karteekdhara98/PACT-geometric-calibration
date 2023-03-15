@@ -19,6 +19,7 @@ Copyright (c) 2023 Karteekeya Sastry, Lihong V. Wang
 This code is licensed under the MIT license. 
 See the LICENSE file for details.
 
+-----------------------------------------------------------------------
 calibration_demo.m
 
 Author name: Karteekeya Sastry,
@@ -35,3 +36,7 @@ in a 3 x 3 x 3 arrangement. The code is divided into 5 steps.
 3. Populate the A matrix and b vector as shown in Section 2 of the paper. 
 4. Estimate the transducer locations.
 5. Visualize the results.
+------------------------------------------------------------------------
+ToAs.mat
+
+mat file containing the ToAs from the simulated array to the point sources.
